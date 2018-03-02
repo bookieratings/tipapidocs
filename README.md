@@ -34,15 +34,15 @@
 
 Возвращаемые данные:
 - odds 
- - author
-  - author_image
-  - author_link
- - start_date
- - title
- - description
- - source
- - source_link
- - odds_data
+  - author
+    - author_image
+    - author_link
+  - start_date
+  - title
+  - description
+  - source
+  - source_link
+  - odds_data
   - market
   - participant
   - price
