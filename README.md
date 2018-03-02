@@ -34,18 +34,18 @@
 
 Возвращаемые данные:
 - odds 
--- author
---- author_image
---- author_link
--- start_date
--- title
--- description
--- source
--- source_link
--- odds_data
---- market
---- participant
---- price
+ - author
+  - author_image
+  - author_link
+ - start_date
+ - title
+ - description
+ - source
+ - source_link
+ - odds_data
+  - market
+  - participant
+  - price
 
 ## /getinsides
 ###### Получить список инсайдов.
@@ -62,8 +62,8 @@
 - description
 - creation_date
 - author
--- author_image
--- author_link
+ - author_image
+ - author_link
 - source
 - source_link
 
@@ -84,8 +84,8 @@
 - description
 - creation_date
 - author
--- author_image
--- author_link
+ - author_image
+ - author_link
 - source
 - source_link
 - image
